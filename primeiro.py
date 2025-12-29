@@ -7,3 +7,7 @@ print ("Olá Mundo")
     Python éuma linguagem de programação
 """
 print ("BOM DIA TSI")
+
+v=100
+
+print (v) #Mostra o valor da váriavel v
