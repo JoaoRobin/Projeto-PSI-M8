@@ -16,3 +16,6 @@ print (v)
 
 nome=input ("Introduza o seu nome: ")
 print ("Olá", nome)
+
+idade=input ("Introduza a sua idade: ")
+print (nome + " tem", idade,"anos")
