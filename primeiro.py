@@ -19,3 +19,6 @@ print ("Olá", nome)
 
 idade=input ("Introduza a sua idade: ")
 print (nome + " tem", idade,"anos")
+
+ano=input ("Em que ano andas?")
+print("Eu ando no",ano,"ºano")
